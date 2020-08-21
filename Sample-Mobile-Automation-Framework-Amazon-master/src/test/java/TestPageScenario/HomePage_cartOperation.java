@@ -61,6 +61,8 @@ public class HomePage_cartOperation extends DriverBase {
 		System.out.println("search content:" + search_content);
 		// Must be commented
 		// keys.clickElement(wait.until(ExpectedConditions.visibilityOf(skip_signin)));
+		
+		
 		// log.info("Signin skipped");
 		
 		
